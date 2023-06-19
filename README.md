@@ -1,0 +1,6 @@
+# VAE_Face_Generation
+## The following is the main part of the assignment:
+1- Train a VAE to fit data onto 4-10 distributions (choose 1 of the values in that range) which is 
+the setting of distribution’s vector length (for example 6 means 6 * (Mean, Std [sigma]).
+2- Generate a few images by sampling from the distribution and decoding. Apply the model on 
+test images.
